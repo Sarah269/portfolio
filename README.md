@@ -10,3 +10,6 @@ This analysis counts multiple medals for a team whereas the International Olympi
 
 ## [Project 2: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created.
+
+![COVID-19Dashboard](https://github.com/Sarah269/portfolio/blob/main/COVID19Dashboardsm.png)
+
