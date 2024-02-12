@@ -6,7 +6,7 @@ This project analyzes the medals earned at the Summer 2008 Beijing Olympics.  Th
 
 This analysis counts multiple medals for a team whereas the International Olympic Committee (IOC) counts only counts 1 medal for a team. Therefore the numbers in this analysis are higher than the IOC numbers.
 
-![BeijingDashboard](https://github.com/Sarah269/portfolio/blob/main/BeijingOlympicsDashboardsm.png)
+<img src = "/BeijingOlympicsDashboardsm.png" alt="Beijing">
 
 ## [Project 2: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created.
