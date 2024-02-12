@@ -13,3 +13,5 @@ This project analyzes the impact of COVID-19 on the 50 states. The data source w
 
 ![COVID-19Dashboard](https://github.com/Sarah269/portfolio/blob/main/COVID19Dashboardsm.png)
 
+## Project 3:  Customer Segmentation Clustering
+This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign.
