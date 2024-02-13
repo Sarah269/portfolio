@@ -16,6 +16,7 @@ This project analyzes the impact of COVID-19 on the 50 states. The data source w
 ## Project 3:  Customer Segmentation Clustering
 This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data.  The mall shopping score and income features were compared.  One group was identified as having a high mall shopping score and high income.  The marketing campaign should target this group. 
 
+<img src = "CustSegsm.png" alt = "CustomerClustering">
 
 ## Project 4: Credit Card Default Classification
 
