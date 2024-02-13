@@ -3,4 +3,5 @@ show_downloads: false
 remote_theme: pages-themes/midnight@v0.2.0
 baseurl: "/portfolio"
 url: "https://sarah269.github.io"
-Is_project_page: false
+github:
+  is_project_page: false
