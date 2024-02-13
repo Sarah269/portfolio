@@ -1,4 +1,3 @@
-# portfolio
 
 ## [Project 1: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
