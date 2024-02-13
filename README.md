@@ -14,17 +14,17 @@ This project analyzes the impact of COVID-19 on the 50 states. The data source w
 <img src = "COVID19Dashboardsm.png" alt = "COVID19Dashboard">
 
 ## Project 3:  Customer Segmentation Clustering
-This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data.  The mall shopping score and income features were compared.  One group was identified as having a high mall shopping score and high income.  The marketing campaign should target this group. 
+This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data. The mall shopping score and income features were compared. One group was identified as having a high mall shopping score and a high income. The marketing campaign should target this group.
 
 <img src = "CustSegsm.png" alt = "CustomerClustering">
 
 ## Project 4: Credit Card Default Classification
-
-
+This project looks at customer credit card data for Taiwan. The customers are classified as default or no default. Five machine learning classification models were built and evaluated to determine which was the best model to predict customer default.
 
 
 
 
 ## Project 5: Diabetes Progression Linear Regression
+This project looks at data on respiratory illnesses in patients. The patients are classified as having an illness or no illness. Two machine learning classification models were built and evaluated to determine which was the best model to predict patient illness.
 
 
