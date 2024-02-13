@@ -23,7 +23,7 @@ This project looks at customer credit card data for Taiwan. The customers are cl
 
 <img src = "CreditCardDefaultsm.png" alt = "CreditCardDefault">
 
-## [Project 5: Diabetes Progression Linear Regression](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
+## [Project 5: Respiratory Illness Classification](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
 This project looks at data on respiratory illnesses in patients. The patients are classified as having an illness or no illness. Two machine learning classification models were built and evaluated to determine which was the best model to predict patient illness.
 
 <img src = "RespIllnesssm.png" alt="RespiratoryIllness">
