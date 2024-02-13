@@ -6,12 +6,24 @@ This project analyzes the medals earned at the Summer 2008 Beijing Olympics.  Th
 
 This analysis counts multiple medals for a team whereas the International Olympic Committee (IOC) counts only counts 1 medal for a team. Therefore the numbers in this analysis are higher than the IOC numbers.
 
-<img src = "BeijingOlympicsDashboardsm.png" alt="Beijing">
+<img src = "BeijingOlympicsDashboardsm.png" alt="BeijingDashboard">
 
 ## [Project 2: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created.
 
-![COVID-19Dashboard](https://github.com/Sarah269/portfolio/blob/main/COVID19Dashboardsm.png)
+<img src = "COVID19Dashboardsm.png" alt = "COVID19Dashboard">
 
 ## Project 3:  Customer Segmentation Clustering
-This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign.
+This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data.  The mall shopping score and income features were compared.  One group was identified as having a high mall shopping score and high income.  The marketing campaign should target this group. 
+
+
+## Project 4: Credit Card Default Classification
+
+
+
+
+
+
+## Project 5: Diabetes Progression Linear Regression
+
+
