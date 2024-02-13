@@ -21,10 +21,9 @@ This project analyzes data collected on customer behavior to identify which grou
 ## Project 4: Credit Card Default Classification
 This project looks at customer credit card data for Taiwan. The customers are classified as default or no default. Five machine learning classification models were built and evaluated to determine which was the best model to predict customer default.
 
-
-
+<img src = "CreditCardDefaultsm.png" alt = "CreditCardDefault">
 
 ## Project 5: Diabetes Progression Linear Regression
 This project looks at data on respiratory illnesses in patients. The patients are classified as having an illness or no illness. Two machine learning classification models were built and evaluated to determine which was the best model to predict patient illness.
 
-
+<img src = "RespIllnesssm.png" alt="RespiratoryIllness">
