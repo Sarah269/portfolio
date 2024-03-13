@@ -9,9 +9,9 @@ This project analyzes data on a company's customers to provide insights on who i
 
 ## [Project: NYC Taxi](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
 
-This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analyziz. Functions used: Pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
+This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analysis. Functions used: pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
 
-<img src = 
+<img src = "Taxi_xlookup.png" alt="xlookup" height=200> <img src="Taxi_Pivottable.png" alt="pivottable" height=200>
 
 ## [Project: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
