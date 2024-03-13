@@ -11,6 +11,8 @@ This project analyzes data on a company's customers to provide insights on who i
 
 This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analyziz. Functions used: Pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
 
+<img src = 
+
 ## [Project: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
 This project anal"yzes the medals earned at the Summer 2008 Beijing Olympics.  The data sources for the project are Oracle Live SQL Olympics Medals view and World Population table, and https://populationpyramid.net.  Oracle Live SQL, SAS Studio, and Tableau were used in this project. 
