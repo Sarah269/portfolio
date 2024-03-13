@@ -2,7 +2,7 @@
 
 ## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
 
-This projects analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
+This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
 
 
 <img src = "Bike Customers.png" alt="BikeDashboard">
