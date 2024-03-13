@@ -5,7 +5,7 @@
 This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
 
 
-<img src = "Bike Customers.png" alt="BikeDashboard">
+<img src = "Bike Customers.png" alt="BikeDashboard" height=200>
 
 ## [Project: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
