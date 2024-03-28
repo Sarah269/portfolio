@@ -1,5 +1,12 @@
 # Projects
 
+## [Project: Breweries in the United States](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
+
+This project analyzes data on obtained from Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI are used in this project.
+
+
+
+
 ## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
 
 This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
