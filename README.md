@@ -4,21 +4,14 @@
 
 This project analyzes data on obtained from Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI are used in this project.
 
-
+<img src = "BreweryPowerBI.png" alt="BreweryDashboard" height=400>
 
 
 ## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
 
 This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
 
-
 <img src = "Bike Customers.png" alt="BikeDashboard" height=400>
-
-## [Project: NYC Taxi](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
-
-This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analysis. Functions used: pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
-
-<img src = "Taxi_xlookup.png" alt="xlookup" height=200> <img src="Taxi_Pivottable.png" alt="pivottable" height=200>
 
 ## [Project: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
@@ -27,6 +20,12 @@ This project anal"yzes the medals earned at the Summer 2008 Beijing Olympics.  T
 This analysis counts multiple medals for a team whereas the International Olympic Committee (IOC) counts only counts 1 medal for a team. Therefore the numbers in this analysis are higher than the IOC numbers.
 
 <img src = "BeijingOlympicsDashboardsm.png" alt="BeijingDashboard" height=400>
+
+## [Project: NYC Taxi](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
+
+This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analysis. Functions used: pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
+
+<img src = "Taxi_xlookup.png" alt="xlookup" height=200> <img src="Taxi_Pivottable.png" alt="pivottable" height=200>
 
 ## [Project: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created.
