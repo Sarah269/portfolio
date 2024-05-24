@@ -1,5 +1,11 @@
 # Projects
 
+## [BCG GenAI Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
+
+Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.
+
+
+
 ## [Project: Breweries in the United States](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 
 This project analyzes data on obtained from Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI are used in this project.
