@@ -4,7 +4,7 @@
 
 Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.
 
-
+<img src = "GenAI_Chatbotv2.png" alt="Rule-based chatbot" height=400>
 
 ## [Project: Breweries in the United States](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 
