@@ -1,7 +1,13 @@
 # Projects
 
-## [Cognizant Artifical Intelligence Job Simulation on Forage](
+## [Cognizant Artifical Intelligence Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
+
 Completed a job simulation focused on AI for Cognizant’s Data Science team.
+
+<p float="left">
+<img src="https://github.com/Sarah269/portfolio/blob/main/GalaGroceries_nextsteps.png" width="49%"/>
+<img src="https://github.com/Sarah269/portfolio/blob/main/GalaGroceries_results.png" width="49%"/>
+</p>
 
 
 ## [BCG GenAI Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
