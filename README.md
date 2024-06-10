@@ -2,17 +2,17 @@
 
 ## [Cognizant Artifical Intelligence Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
 
-Completed a job simulation focused on AI for Cognizant’s Data Science team.  
+Completed a job simulation focused on AI for Cognizant’s Data Science team. Python is utilized in machine learning and data analysis.
 
 
 <img src="https://github.com/Sarah269/portfolio/blob/main/GalaGroceries_nextsteps.png" height=300/>
-#<img src="https://github.com/Sarah269/portfolio/blob/main/GalaGroceries_results.png" width="49%"/>
+<img src="https://github.com/Sarah269/portfolio/blob/main/GalaGroceries_results.png" width="49%"/>
 
 
 
 ## [BCG GenAI Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
 
-Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.
+Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.  Python is utilized in data analysis and chatbot.
 
 <img src = "GenAI_Chatbotv2.png" alt="Rule-based chatbot" height=400>
 
