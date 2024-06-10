@@ -4,8 +4,8 @@
 
 Completed a job simulation focused on AI for Cognizant’s Data Science team. Python is utilized in machine learning and data analysis.
 
-
-<img src="https://github.com/Sarah269/portfolio/blob/main/CustSegsm.png" alt="Next Steps" height=400>
+<img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%">
+<img src="GalaGroceries_results.png" alt="Results" width="49%">
 
 
 
