@@ -1,6 +1,6 @@
 # Projects
 
-## Datacom Automation Job Simulation on Forage
+## [Datacom Automation Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
 
 Completed a simulation focused on advising a hypothetical client, ABC Staffing, on how to automate their timesheet-to-invoice process as an Automation Developer.
 
