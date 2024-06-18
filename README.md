@@ -1,5 +1,11 @@
 # Projects
 
+## Datacom Automation Job Simulation on Forage
+
+Completed a simulation focused on advising a hypothetical client, ABC Staffing, on how to automate their timesheet-to-invoice process as an Automation Developer.
+
+<img src="Datacom_Processflow.jpg" alt="Process Flow" height=400>
+
 ## [Cognizant Artifical Intelligence Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
 
 Completed a job simulation focused on AI for Cognizant’s Data Science team. Python is utilized in machine learning and data analysis.
