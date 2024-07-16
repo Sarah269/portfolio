@@ -43,12 +43,6 @@ This analysis counts multiple medals for a team whereas the International Olympi
 
 <img src = "BeijingOlympicsDashboardsm.png" alt="BeijingDashboard" height=400>
 
-## [Project: NYC Taxi](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
-
-This project analyzes NYC taxi data during the period from 2019 to 2022.  The data source for this project is NYC Taxi & Limousine Commission.  Excel is used to perform the analysis. Functions used: pivot table, averageif, sumifs, maxifs, filter, index/match, large, xlookup, and min.
-
-<img src = "Taxi_xlookup.png" alt="xlookup" height=200> <img src="Taxi_Pivottable.png" alt="pivottable" height=200>
-
 ## [Project: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created.
 
