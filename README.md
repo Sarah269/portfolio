@@ -1,14 +1,18 @@
 # Projects
 
-## [Mastercard Cybersecurity Job Simulation on Forage]()
+## [Virtual Job Experience on Forage]()
 
-Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.  Analyzed results from phishing email campaign and developed training materials.
+Completed job simulations based on the work of an actual role at a company.
 
-<img src="JPMC Product Backlog.png" alt="Product Backlog" width=49% />
-<img src="Datacom_Processflow.jpg" alt="Process Flow" height=400>
-<img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%">
-<img src="Mastercard Phishing Training Slide 3 Task 2.png">
+<p float="left">
+<img src="Datacom_Processflow.jpg" alt="Process Flow" width="49%" />
+<img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%" />
+</p>
 
+<p float="left">
+<img src="Mastercard Phishing Training Slide 3 Task 2.png" width="49%" />
+
+</p>
 
 ## [J.P. Morgan Chase & Co Agile Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
