@@ -1,5 +1,11 @@
 # Projects
 
+## [J.P. Morgan Chase & Co Agile Job Simulation on Forage[()
+
+Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required.
+
+<img src="JPMC Product Backlog" alt="Product Backlog" height=400>
+
 ## [Datacom Automation Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
 
 Completed a simulation focused on advising a hypothetical client, ABC Staffing, on how to automate their timesheet-to-invoice process as an Automation Developer.
