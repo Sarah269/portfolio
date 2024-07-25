@@ -7,6 +7,8 @@ Completed a job simulation where I served as an analyst on Mastercard’s Securi
 <img src="JPMC Product Backlog.png" alt="Product Backlog" width=49% />
 <img src="Datacom_Processflow.jpg" alt="Process Flow" height=400>
 <img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%">
+<img src="Mastercard Phishing Training Slide 3 Task 2.png">
+
 
 ## [J.P. Morgan Chase & Co Agile Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
