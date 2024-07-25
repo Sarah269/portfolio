@@ -1,5 +1,3 @@
-# Projects
-
 ## [Virtual Job Experience on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main)
 
 Completed job simulations based on the work of an actual role at a company.
@@ -13,6 +11,8 @@ Completed job simulations based on the work of an actual role at a company.
 <img src="Datacom_Processflow.jpg" alt="Process Flow" width="49%" height=400 />
 <img src="JPMC Product Backlog sm.png" width="49%" height=400 />
 </p>
+
+# Projects
 
 ## [Project: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created. Snowflake, SQL, and Tableau were used in this project.
