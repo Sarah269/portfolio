@@ -1,10 +1,10 @@
 # Projects
 
-## [J.P. Morgan Chase & Co Agile Job Simulation on Forage[()
+## [J.P. Morgan Chase & Co Agile Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
-Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required.
+Completed a job simulation focused on agile methodology in software development.  Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required.
 
-<img src="JPMC Product Backlog" alt="Product Backlog" height=400>
+<img src="JPMC Product Backlog.png" alt="Product Backlog" height=400>
 
 ## [Datacom Automation Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
 
@@ -14,7 +14,7 @@ Completed a simulation focused on advising a hypothetical client, ABC Staffing, 
 
 ## [Cognizant Artifical Intelligence Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
 
-Completed a job simulation focused on AI for Cognizant’s Data Science team. Python is utilized in machine learning and data analysis.
+Completed a job simulation focused on developing a model to help a hypothetical client, Gala Groceries, better predict stock levels. Python is utilized in machine learning and data analysis.
 
 <img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%">
 <img src="GalaGroceries_results.png" alt="Results" width="49%">
