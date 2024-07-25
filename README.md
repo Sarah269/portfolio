@@ -4,7 +4,9 @@
 
 Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.  Analyzed results from phishing email campaign and developed training materials.
 
-
+<img src="JPMC Product Backlog.png" alt="Product Backlog" width=49% />
+<img src="Datacom_Processflow.jpg" alt="Process Flow" height=400>
+<img src="GalaGroceries_nextsteps.png" alt="Next Steps" width="49%">
 
 ## [J.P. Morgan Chase & Co Agile Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
