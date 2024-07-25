@@ -47,7 +47,7 @@ This project looks at data on respiratory illnesses in patients. The patients ar
 <img src = "RespIllnesssm.png" alt="RespiratoryIllness" height=400>
 
 ## [Project:  Customer Segmentation Clustering](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
-This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data. The mall shopping score and income features were compared. One group was identified as having a high mall shopping score and a high income. The marketing campaign should target this group. Python and Google Slides were used in this project.
+This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data. The mall shopping score and income features were compared. One group was identified as having a high mall shopping score and a high income. The marketing campaign should target this group. Python and Tableau were used in this project.
 
 <img src = "CustSegsm.png" alt = "CustomerClustering" height = 400>
 
