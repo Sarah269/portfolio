@@ -19,6 +19,13 @@ Determine the top three industries that has most unicorn companies for the perio
 
 <img src= "Unicorndashboard.png" alt="UnicornDashboard" height=400 />
 
+
+## [Evaluate Manufacturing Process](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
+
+Using SQL window functions, analyzed historical manufacturing data to define the acceptable range for height measurements and identify any points in the process that fall outside of the range.
+
+<img src="Evaluate Manufacturing Process Dashboard.png" height=400 />
+
 ## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
 
 This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
