@@ -14,7 +14,7 @@ Completed job simulations based on the work of an actual role at a company.
 
 # Projects
 
-## [Analyzing Unicorn Companies]
+## [Analyzing Unicorn Companies](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
 Determine the top three industries that has most unicorn companies for the period 2019 - 2021.  PostgreSQL and Power BI were used in the project.
 
 <img src= "Unicorndashboard.png" alt="UnicornDashboard" height=400 />
@@ -32,7 +32,7 @@ This project analyzes the impact of COVID-19 on the 50 states. The data source w
 
 ## [Project: Beijing Olympics Summer 2008](https://github.com/Sarah269/Olympics-Data-Exploration?tab=readme-ov-file)
 
-This project analyzes the medals earned at the Summer 2008 Beijing Olympics.  The data sources for the project are Oracle Live SQL Olympics Medals view and World Population table, and https://populationpyramid.net.  Oracle Live SQL, SAS Studio, and Tableau were used in this project. 
+This project analyzes the medals earned at the Summer 2008 Beijing Olympics.  The data sources used in this project were Oracle Live SQL Olympics Medals view and World Population table, and https://populationpyramid.net.  Oracle Live SQL, SAS Studio, and Tableau were used in this project. 
 
 This analysis counts multiple medals for a team whereas the International Olympic Committee (IOC) counts only counts 1 medal for a team. Therefore the numbers in this analysis are higher than the IOC numbers.
 
@@ -41,7 +41,7 @@ This analysis counts multiple medals for a team whereas the International Olympi
 
 ## [Project: Breweries in the United States](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 
-This project analyzes data on obtained from Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI were used in this project.
+This project analyzes data obtained from the Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI were used in this project.
 
 <img src = "BreweryPowerBI.png" alt="BreweryDashboard" height=400>
 
