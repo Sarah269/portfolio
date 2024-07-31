@@ -14,6 +14,17 @@ Completed job simulations based on the work of an actual role at a company.
 
 # Projects
 
+## [Analyzing Unicorn Companies]
+Determine the top three industries that has most unicorn companies for the period 2019 - 2021.  PostgreSQL and Power BI were used in the project.
+
+
+
+## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
+
+This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
+
+<img src = "Bike Customers.png" alt="BikeDashboard" height=400>
+
 ## [Project: COVID-19 in the United States](https://github.com/Sarah269/Data-Cleaning-COVID19)
 This project analyzes the impact of COVID-19 on the 50 states. The data source was a Snowflake covid19_epidemiological_data database consisting of many tables. The tables were reviewed, and four tables were selected for this analysis. The data from the tables was aggregated, and new features were created. Snowflake, SQL, and Tableau were used in this project.
 
@@ -34,26 +45,9 @@ This project analyzes data on obtained from Open Brewery database public API to 
 
 <img src = "BreweryPowerBI.png" alt="BreweryDashboard" height=400>
 
-## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
-
-This project analyzes data on a company's customers to provide insights on who is purchasing bikes.  The data source for this project is AlextheAnalyst's bike sales dataset.  Excel is used to perform the analysis.
-
-<img src = "Bike Customers.png" alt="BikeDashboard" height=400>
 
 
-## [Project: Respiratory Illness Classification](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
-This project looks at data on respiratory illnesses in patients. The patients are classified as having an illness or no illness. Two machine learning classification models were built and evaluated to determine which was the best model to predict patient illness. Python and Google Slides were used in this project.
 
-<img src = "RespIllnesssm.png" alt="RespiratoryIllness" height=400>
 
-## [Project:  Customer Segmentation Clustering](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
-This project analyzes data collected on customer behavior to identify which groups to target for a marketing campaign. Using the clustering unsupervised machine learning method with the k-means algorithm, five groups were identified from the data. The mall shopping score and income features were compared. One group was identified as having a high mall shopping score and a high income. The marketing campaign should target this group. Python and Tableau were used in this project.
-
-<img src = "CustSegsm.png" alt = "CustomerClustering" height = 400>
-
-## [Project: Credit Card Default Classification](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
-This project looks at customer credit card data for Taiwan. The customers are classified as default or no default. Five machine learning classification models were built and evaluated to determine which was the best model to predict customer default.  Python and Google Slides were used in this project.
-
-<img src = "CreditCardDefaultsm.png" alt = "CreditCardDefault" height=400>
 
 
