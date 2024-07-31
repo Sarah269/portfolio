@@ -17,7 +17,7 @@ Completed job simulations based on the work of an actual role at a company.
 ## [Analyzing Unicorn Companies]
 Determine the top three industries that has most unicorn companies for the period 2019 - 2021.  PostgreSQL and Power BI were used in the project.
 
-
+<img src= "UnicornDashboard.png" alt="UnicornDashboard" height=400 />
 
 ## [Project: Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
 
