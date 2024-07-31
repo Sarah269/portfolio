@@ -41,7 +41,9 @@ This analysis counts multiple medals for a team whereas the International Olympi
 
 ## [Project: Breweries in the United States](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 
-This project analyzes data obtained from the Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI were used in this project.
+This project analyzes data obtained from the Open Brewery database public API to gain insights on breweries located in the United States.  Python and PowerBI were used in this project. 
+
+[FindaBrewery web application](https://probable-octo-robot-cm4nr6wt7yvnusynumfme2.streamlit.app/)
 
 <img src = "BreweryPowerBI.png" alt="BreweryDashboard" height=400>
 
